@@ -27,15 +27,13 @@ This is where I share my personal projects and the things I build while learning
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
 
-**Also used in EShop**
+**Also *
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-287878?style=flat-square&logoColor=white)
 ![YARP](https://img.shields.io/badge/YARP-3B5975?style=flat-square&logoColor=white)
-
-These tools are part of my course-based microservices project below.
 
 ## Projects
 
