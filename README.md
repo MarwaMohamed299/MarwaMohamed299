@@ -1,74 +1,54 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarwaMohamed299/MarwaMohamed299/main/assets/profile-banner.svg" alt="Marwa Ghonem — Full Stack .NET Developer. From interface to API to database." width="100%" />
-</p>
+# Hi, I'm Marwa 👋
 
-<p align="center">
-  <strong>3 years of professional experience · ASP.NET Core · Angular &amp; React</strong><br />
-  Building web applications that connect useful interfaces, backend APIs, and relational databases.
-</p>
+### Full Stack .NET Developer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marwa-ghonem/"><strong>Connect on LinkedIn ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="#featured-projects"><strong>Explore my projects ↓</strong></a>
-</p>
+I'm Marwa Ghonem, a developer with **3 years of professional experience** working with ASP.NET Core, Entity Framework Core, SQL Server, Angular, and React.
 
----
+This is where I share my personal projects and the things I build while learning. Below are a few projects that bring the frontend, API, and database together.
 
-## Featured projects
+## What I work with
 
-A selection of full-stack applications and backend projects, with links to both sides of the stack.
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, ASP.NET Core, Entity Framework Core, REST APIs |
+| Frontend | Angular, React, TypeScript |
+| Database | SQL Server |
+
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 / AddressBook</h3>
-<p><strong>Contact management, end to end.</strong></p>
-<p>Manage contacts, jobs, and departments through an Angular interface and .NET API. Includes field-based search, photo uploads, Excel export, and Identity/JWT sign-in.</p>
-<p><sub>ASP.NET Core · EF Core · SQL Server · Angular</sub></p>
-<p><a href="https://github.com/MarwaMohamed299/AddressBook"><strong>Backend ↗</strong></a> &nbsp; <a href="https://github.com/MarwaMohamed299/AddressBookF"><strong>Frontend ↗</strong></a></p>
+<h3>AddressBook</h3>
+<p>I built this to manage contacts, jobs, and departments in one place. You can search contacts, upload photos, and export the directory to Excel.</p>
+<p>The Angular frontend connects to a .NET API, with Identity and JWT for sign-in.</p>
+<p><a href="https://github.com/MarwaMohamed299/AddressBook">API</a> · <a href="https://github.com/MarwaMohamed299/AddressBookF">Angular app</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>02 / E-Commerce System</h3>
-<p><strong>Products, APIs, and persistence.</strong></p>
-<p>An independent API and Angular product-management UI with product CRUD, pagination, product/tag queries, authentication, localization, and product-manager unit tests.</p>
-<p><sub>ASP.NET Core · SQL Server · Angular · xUnit</sub></p>
-<p><a href="https://github.com/MarwaMohamed299/E-CommerceSystemV2."><strong>Backend ↗</strong></a> &nbsp; <a href="https://github.com/MarwaMohamed299/ECommerce"><strong>Frontend ↗</strong></a></p>
+<h3>E-Commerce System</h3>
+<p>A product-management project with an Angular UI and .NET backend. It includes product CRUD, pagination, tag searches, authentication, and localization.</p>
+<p>The backend also has unit tests for the product manager.</p>
+<p><a href="https://github.com/MarwaMohamed299/E-CommerceSystemV2.">API</a> · <a href="https://github.com/MarwaMohamed299/ECommerce">Angular app</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>03 / Balance</h3>
-<p><strong>Account data into financial statements.</strong></p>
-<p>A financial reporting project with account lookup, date-filtered statements, debit and credit totals, and transaction details, backed by a .NET API and Angular frontend.</p>
-<p><sub>ASP.NET Core · EF Core · SQL Server · Angular</sub></p>
-<p><a href="https://github.com/MarwaMohamed299/Balance"><strong>Backend ↗</strong></a> &nbsp; <a href="https://github.com/MarwaMohamed299/BalanceF"><strong>Frontend ↗</strong></a></p>
+<h3>Balance</h3>
+<p>An account-statement project for looking up accounts, filtering transactions by date, and viewing debit and credit totals.</p>
+<p>It pairs an Angular frontend with an ASP.NET Core API and SQL Server.</p>
+<p><a href="https://github.com/MarwaMohamed299/Balance">API</a> · <a href="https://github.com/MarwaMohamed299/BalanceF">Angular app</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>04 / EShop</h3>
-<p><strong>Exploring distributed applications.</strong></p>
-<p>A course-based microservices project covering catalog, basket, discount, and ordering services, with messaging, distributed caching, and API gateway routing.</p>
-<p><sub>.NET 8 · RabbitMQ · gRPC · Redis · YARP · Docker</sub></p>
-<p><a href="https://github.com/MarwaMohamed299/EShop"><strong>Explore repository ↗</strong></a> &nbsp; <sub>Course-based learning</sub></p>
+<h3>EShop</h3>
+<p>I built this while following a course on .NET microservices. It covers catalog, basket, discount, and ordering services.</p>
+<p>I worked with RabbitMQ, gRPC, Redis, YARP, and Docker as part of the project.</p>
+<p><a href="https://github.com/MarwaMohamed299/EShop">Repository</a> · <em>Course project</em></p>
 </td>
 </tr>
 </table>
 
-## My stack
+## Get in touch
 
-| Backend & APIs | Frontend | Data |
-| :--- | :--- | :--- |
-| C# · ASP.NET Core | Angular · React | SQL Server |
-| REST APIs · Entity Framework Core | TypeScript | Relational persistence |
+I'm interested in **mid-level Full Stack .NET Developer** roles in **Cairo, Alexandria, or remotely**.
 
----
-
-<p align="center">
-  <strong>Let's build something useful.</strong><br />
-  Interested in mid-level Full Stack .NET Developer opportunities.<br />
-  Cairo · Alexandria · Remote
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marwa-ghonem/"><strong>LinkedIn ↗</strong></a>
-</p>
+You can find me on [LinkedIn](https://www.linkedin.com/in/marwa-ghonem/).
