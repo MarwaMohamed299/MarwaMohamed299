@@ -48,4 +48,4 @@ A course-based project exploring catalog, basket, discount, and ordering service
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/marwa-ghonem/) · [GitHub](https://github.com/MarwaMohamed299)
+[LinkedIn](https://www.linkedin.com/in/marwa-ghonem/) 
