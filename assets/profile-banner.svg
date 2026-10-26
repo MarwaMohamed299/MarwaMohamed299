@@ -1,35 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
   <title id="title">Marwa Ghonem — Full Stack .NET Developer</title>
-  <desc id="desc">A navy and violet banner connecting frontend interfaces, backend APIs, and databases.</desc>
+  <desc id="desc">A compact navy header with teal accents and .NET, Angular, and React labels.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1224"/><stop offset="1" stop-color="#192345"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#6366f1" stop-opacity=".24"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+    <linearGradient id="background"><stop stop-color="#101b2c"/><stop offset="1" stop-color="#183346"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
   </defs>
-  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
-  <circle cx="1050" cy="160" r="330" fill="url(#glow)"/>
-  <path d="M870 0v360M950 0v360M1030 0v360M1110 0v360M1190 0v360M820 65h460M820 145h460M820 225h460M820 305h460" stroke="#c4b5fd" stroke-opacity=".055"/>
-  <rect x="60" y="58" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <rect width="1200" height="220" rx="16" fill="url(#background)"/>
+  <path d="M785 0L1005 220M905 0l220 220M1025 0l175 175" stroke="#5eead4" stroke-opacity=".06" stroke-width="30"/>
+  <rect x="48" y="37" width="46" height="4" rx="2" fill="url(#accent)"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="60" y="107" fill="#a5b4fc" font-size="20" font-weight="600" letter-spacing="3">FULL STACK .NET DEVELOPER</text>
-    <text x="56" y="191" fill="#f8fafc" font-size="68" font-weight="700" letter-spacing="-2">Marwa Ghonem</text>
-    <text x="60" y="239" fill="#cbd5e1" font-size="23">From interface to API to database.</text>
-    <text x="60" y="304" fill="#94a3b8" font-size="17" letter-spacing="1">C#  /  ASP.NET CORE  /  ANGULAR  /  REACT  /  SQL SERVER</text>
-    <path d="M1033 116v26m0 76v26" stroke="url(#accent)" stroke-width="2"/>
-    <g fill="#111a31" stroke="#6475ab" stroke-opacity=".6">
-      <rect x="918" y="48" width="230" height="68" rx="14"/>
-      <rect x="918" y="146" width="230" height="68" rx="14"/>
-      <rect x="918" y="244" width="230" height="68" rx="14"/>
+    <text x="46" y="101" font-size="48" font-weight="700" fill="#f1f5f9">Marwa Ghonem</text>
+    <text x="48" y="142" font-size="23" fill="#99f6e4">Full Stack .NET Developer</text>
+    <text x="48" y="187" font-size="17" fill="#b1c2d5">C# · ASP.NET Core · Entity Framework Core · SQL Server</text>
+    <rect x="814" y="76" width="96" height="40" rx="8" fill="#352958" stroke="#a78bfa" stroke-opacity=".5"/>
+    <rect x="924" y="76" width="110" height="40" rx="8" fill="#4a2737" stroke="#fb7185" stroke-opacity=".5"/>
+    <rect x="1048" y="76" width="104" height="40" rx="8" fill="#163e50" stroke="#67e8f9" stroke-opacity=".5"/>
+    <g text-anchor="middle" font-size="17" font-weight="600">
+      <text x="862" y="102" fill="#ddd6fe">.NET</text>
+      <text x="979" y="102" fill="#fecdd3">Angular</text>
+      <text x="1100" y="102" fill="#a5f3fc">React</text>
     </g>
-    <g font-size="13" font-weight="600" letter-spacing="2" fill="#94a3b8">
-      <text x="942" y="73">INTERFACE</text><text x="942" y="171">APPLICATION</text><text x="942" y="269">PERSISTENCE</text>
-    </g>
-    <g font-size="20" font-weight="600" fill="#e2e8f0">
-      <text x="942" y="99">Angular / React</text><text x="942" y="197">ASP.NET Core</text><text x="942" y="295">EF Core / SQL</text>
-    </g>
-    <circle cx="1124" cy="69" r="4" fill="#67e8f9"/>
-    <circle cx="1124" cy="167" r="4" fill="#a78bfa"/>
-    <circle cx="1124" cy="265" r="4" fill="#67e8f9"/>
   </g>
-  <rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#a5b4fc" stroke-opacity=".16"/>
+  <rect x=".5" y=".5" width="1199" height="219" rx="15.5" fill="none" stroke="#8cb1c7" stroke-opacity=".2"/>
 </svg>
