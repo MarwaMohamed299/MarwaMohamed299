@@ -6,6 +6,8 @@ Hi, I'm Marwa. I have **3 years of professional experience** working with ASP.NE
 
 This is where I share my personal projects and the things I build while learning. Below are a few projects that bring the frontend, API, and database together.
 
+[Skills](#skills) · [Projects](#projects) · [Contact](#get-in-touch)
+
 ## Skills
 
 **Backend**
